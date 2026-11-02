@@ -1,0 +1,8 @@
+*.dwg
+*.dxf
+*.pln
+*.rvt
+*.skp
+*.ls
+.env
+Private/

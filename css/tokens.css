@@ -1,0 +1,8 @@
+:root {
+  --navy: #1B2A4A; --charcoal: #2E2E2E; --orange: #D97642; --orange-text: #A8501F;
+  --offwhite: #FAFAF8; --text-secondary: #5B6270; --grid-grey: #9AA0A6;
+  --navy-dark: #0F1A2E; --navy-surface: #16233D; --light-text: #EDEFF2; --light-text-2: #A9B0BC;
+  --error: #B3261E; --success: #2E7D32;
+  --font-head: 'Oswald', sans-serif; --font-body: 'Inter', sans-serif; --font-mono: 'IBM Plex Mono', monospace;
+  --space: 8px; --radius: 6px; --container: 1200px;
+}
